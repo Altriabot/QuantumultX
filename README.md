@@ -4,13 +4,12 @@
 
 ## 数据来源 
 - https://github.com/28413761/QX/blob/main/chongxie.txt 
-
-
-
-
-
-
-
+### 🚫知乎广告
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
+### 🔅Bilibili自动换区
+- https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/bilibili.conf
+### 🚫YouTube AD
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf
 
 
 
